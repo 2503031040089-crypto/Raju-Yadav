@@ -97,7 +97,7 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Guide by: Senior consultan Engineer</p>
+        <p>Guide by: Senior consultant Engineer</p>
         <p>Location:  Golbazar-4 Siraha, Nepal</p>
         <p>Email: yrazz8276@gmail.com</p>
         <p>Phone: +977-9827752451</p>
